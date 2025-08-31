@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Welcome, Hieu! This is your custom Bash script."
+# read the name of the user and print hello.
 
 echo "Hello! What is your name"
 read name
